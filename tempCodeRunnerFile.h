@@ -1,1 +1,1 @@
-_PrepareRegisterLoginUser
+clsUpdateCurrency
